@@ -1,5 +1,5 @@
-const TOKEN = "TOKEN_HERE";
-const CHANNEL_ID = "CHANNELID_HERE";
+const TOKEN      = "dein_token_hier";
+const CHANNEL_ID = "deine_channel_id_hier";
 const DELAY = 1000; // ms zwischen Löschungen
 
 async function deleteMessages() {
